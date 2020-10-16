@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "ttl-users-api-executor",
+    "name": "ttl-users-api",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "h0d9at8eml",
+    "module": "index"
+  }
+}
